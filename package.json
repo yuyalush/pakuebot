@@ -18,6 +18,6 @@
   "homepage": "https://github.com/yuyalush/pakuebot#readme",
   "dependencies": {
     "express": ">=3.2.6",
-    "doby-parser": "==1.13.1"
+    "body-parser": "==1.13.1"
   }
 }
